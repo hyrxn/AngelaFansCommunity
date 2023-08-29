@@ -1,0 +1,97 @@
+body{
+    background-color: #f6f1ee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 40px 40px 40px;
+}
+
+a.btn{
+    text-decoration: none;
+    color: black;
+}
+
+.theme{
+    height:150px;
+    background-color: #b7d2cd;
+    color: #2e3442;
+    text-align: center;
+}
+
+.theme-content{
+    position: sticky;
+    top: 75px;
+}
+
+.outer-box{
+    position: relative;
+    background-color: #2e3442;
+    margin: auto;
+}
+
+.title-box{
+    background-color: #e35d5e;
+    width: 400px;
+    height: 400 px;
+    text-align:center;
+    margin: auto;
+    color:#2e3442;
+    border-radius: 100px;
+}
+
+.home-title-box{
+    background-color: #2e3442;
+    width: 400px;
+    height: 400 px;
+    text-align:center;
+    margin: auto;
+    color:#f1ca7f;
+    border-radius: 100px;
+}
+
+.box{
+    position: relative;
+    background-color: #f1ca7f;
+    width: 400px;
+    height: 400 px;
+    text-align:center;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.login-box{
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.regis-box{
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    left: 35px;
+}
+
+.profileimg{
+    border-radius: 50%;
+  }
+
+.table-list{
+    position: relative;
+    background-color: #f1ca7f;
+    margin: auto;
+}
+
+.picList{
+    border-radius: 50px;
+}
+
+.detail-box{
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    left: 10px;
+}
+
+
